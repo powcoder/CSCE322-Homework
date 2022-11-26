@@ -1,0 +1,1 @@
+y,0;b,8;y,4;b,5;b,1;r,s;r,7;y,d;r,1;y,5;y,2;b,7;g,r;g,8;y,9;y,r;r,8;r,4;g,4;b,2;g,2;r,7;b,4;g,1;g,s;g,s;g,d;y,s;r,d;y,6;b,s;b,9;g,d;w,d;r,1;g,1;w,-;b,0;r,8;r,9;r,r;b,8;r,6;y,s;y,1;g,r;b,3;r,4;g,9;w,-;y,9;r,3;w,-;y,6;r,9;g,2;g,3;y,d;b,6;r,5;r,2;r,0;y,8;b,3;y,2;y,8;g,4;g,7;r,s;g,5;b,d;w,d;r,3;b,r;y,4;b,9;g,9;b,1;w,d;g,6;y,3;y,7;b,d;b,7;y,7;g,8;g,6;g,5;b,6;y,5;g,3;b,4;y,r
